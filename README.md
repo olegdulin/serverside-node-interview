@@ -2,6 +2,8 @@
 
 ## General questions
 
+* [Basic systems architecture](./systems.md)
+
 ## Linux/UNIX command line
 
 TODO
