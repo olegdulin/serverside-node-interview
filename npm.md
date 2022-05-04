@@ -2,6 +2,11 @@
 
 Candidate should be able to describe what npm is and what it does.
 
+## Basics
+
+* What is npm? What does it do?
+* What is the difference between `dependencies`, `peerDependencies` and `devDependencies` ? Under what circumstances would you use one over the other?
+
 ## Troubleshooting npm errors
 
 Consider the following error:
