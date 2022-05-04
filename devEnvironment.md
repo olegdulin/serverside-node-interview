@@ -4,3 +4,4 @@
 * What features do you look for in a development workstation?
 * What is your preferred IDE? Why?
 * What features do you look for in an IDE?
+* Describe your typical day as a developer
