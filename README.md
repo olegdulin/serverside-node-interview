@@ -21,3 +21,4 @@ TODO
 * [How do you install Node.js?](./Install.md)
 * [How does Node.js work?](./HowItWorks.md)
 * [How does npm work?](./npm.md)
+* [Algorithms](./algorithms/README.md)
