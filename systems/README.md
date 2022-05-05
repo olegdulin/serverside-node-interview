@@ -24,3 +24,4 @@ In terms of data model, we need to track users, photos they upload, and connecti
 
 
 
+Describe data model, storage mechanisms, and APIs..
