@@ -6,4 +6,4 @@ This is an open-ended discussion, no right or wrong answer.
 
 Consider an app like "Instagram." It allows users to set up accounts, upload photos, and follow one another.
 
-Describe data model, storage mechanisms, and APIs.
+Describe data model, storage mechanisms, and APIs..
