@@ -10,18 +10,17 @@ To start, assume that a user signup and authentication mechanism is already prov
 
 This is a purposely open-ended discussion topic to see how the candidate thinks of systems and whether they can explain their ideas. This type of a discussion also shows whether the candidate is curious about how common apps are built and how they work. Essentially, this is a question that can be phrased as follows: _”How do you think Instagram works?”_
 
-## Example response
+## Example discussion
 
-To confirm, we are architecting an app that allows users to store photos. Each user can setup an account, upload photos, and follow other users. To keep things simple at first, we are assuming that account registration and authentication is already provided.
+Candidate:
 
-In terms of data model, we need to track users, photos they upload, and connections between users.
+> To confirm, we are architecting an app that allows users to store photos. Each user can setup an account, upload photos, and follow other users. To keep things simple at first, we are assuming that account registration and authentication is already provided.
 
+> In terms of data model, we need to track users, photos they upload, and connections between users.
+> 
+> At a high level, we need 3 tables:
+>
+> * UserProfile table
+> * PhotosByUser table
+> * ConnectionsByUser table
 
-
-
-
-
-
-
-
-Describe data model, storage mechanisms, and APIs..

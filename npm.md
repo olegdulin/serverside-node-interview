@@ -9,6 +9,11 @@ Candidate should be able to describe what npm is and what it does.
 * What is `package.json` ?
 * What is `package-lock.json` ?
 
+## Building and publishing a module
+
+* Under what circumstances would you build a module?
+* Describe steps to build a module from start to finish 
+
 ## Troubleshooting npm errors
 
 Consider the following error:
