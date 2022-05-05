@@ -2,7 +2,7 @@
 
 ## General questions
 
-* [Basic systems architecture](./systems.md)
+* [Basic systems architecture](./systems/README.md)
 * [Describe your development environment](./devEnvironment.md)
 
 ## Linux/UNIX command line
