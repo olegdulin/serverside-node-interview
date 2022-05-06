@@ -6,6 +6,8 @@ Candidate should be able to describe what npm is and what it does.
 
 * What is npm? What does it do?
 * What is the difference between `dependencies`, `peerDependencies` and `devDependencies` ? Under what circumstances would you use one over the other?
+* How do you get a hierarchical report of what modules are installed in your project?
+* How do you find out current versions of modules available to you?
 * What is `package.json` ?
 * What is `package-lock.json` ?
 
