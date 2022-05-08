@@ -14,7 +14,7 @@ Candidate should be able to describe what npm is and what it does.
 ## Building and publishing a module
 
 * Under what circumstances would you build a module?
-* Describe steps to build a module from start to finish 
+* Describe steps to build and publish a module from start to finish 
 
 ## Troubleshooting npm errors
 
